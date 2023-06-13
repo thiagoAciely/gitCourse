@@ -3,3 +3,4 @@ Master commit
 Second new file 
 Commit on Feature One
 Feature two commmit
+Changes on feature 1
